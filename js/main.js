@@ -90,7 +90,7 @@
 
     //typed js
     $(".typed").typed({
-        strings: ["Eat Healthy, Live Healthy", "Organic > Non-Organic", "Don't compromise on health", "Subsidize Organics", "Do you LIKE eating chemicals?"],
+        strings: ["Eat Healthy, Live Healthy", "Organic > Non-Organic", "Do you LIKE eating chemicals?"],
         typeSpeed: 100,
         backDelay: 900,
         // loop
