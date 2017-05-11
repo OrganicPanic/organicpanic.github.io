@@ -90,7 +90,7 @@
 
     //typed js
     $(".typed").typed({
-        strings: ["Eat Healthy, Live Healthy", "Organic NOT Non-Organic", "Don't compromise on health", "Subsidize Organics", "Do you LIKE eating chemicals?"],
+        strings: ["Eat Healthy, Live Healthy", "Don't compromise on health", "Subsidize Organics", "Do you LIKE eating chemicals?"],
         typeSpeed: 100,
         backDelay: 900,
         // loop
@@ -99,7 +99,7 @@
 
     //owl carousel
     $('.owl-carousel').owlCarousel({
-      autoPlay: 3000, //Set AutoPlay to 3 seconds
+      autoPlay: 7000, //Set AutoPlay to 3 seconds
  
       items : 1,
       itemsDesktop : [1199,1],
